@@ -1,0 +1,26 @@
+{
+  "name": "odoql-rethinkdb",
+  "version": "0.0.1",
+  "description": "Json querying for RethinkDB driver for odoql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/odojs/odoql-rethinkdb.git"
+  },
+  "keywords": [
+    "graph",
+    "query"
+  ],
+  "author": "Thomas Coats",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odojs/odoql-rethinkdb/issues"
+  },
+  "homepage": "https://github.com/odojs/odoql-rethinkdb",
+  "dependencies": {
+    "rethinkdb": "^2.0.0"
+  }
+}
